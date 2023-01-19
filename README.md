@@ -3,5 +3,5 @@ pomorodo timer using python
 
 Complitable for OSX / macOS
 
-Usage:
+# Usage:
 python app.py
