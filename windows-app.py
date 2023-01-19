@@ -10,7 +10,7 @@ sleep = 1500
 notification.notify(
     title = 'Pomorodo Timer',
     message = 'Happy Working!',
-    app_icon = r"C:\Users\Mujib\Downloads\work-in-progress.ico",
+    app_icon = r"work-in-progress.ico",
     timeout = 5,
 )
 
