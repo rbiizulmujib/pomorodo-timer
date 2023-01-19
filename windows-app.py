@@ -1,7 +1,5 @@
 import time
 import os
-import sys
-import subprocess
 from tqdm import tqdm
 from plyer import notification
 
